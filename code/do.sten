@@ -1,0 +1,8 @@
+int x;
+int y;
+
+x = 3;
+do {
+	x = x + y + 8;
+} while (x < 100 && x != y);
+x = 42;

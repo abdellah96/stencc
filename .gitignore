@@ -1,0 +1,5 @@
+*.o
+stencc
+grammar.h
+grammar.output
+mips.out
